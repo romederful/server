@@ -1,0 +1,60 @@
+{
+  "friends": [
+    {
+      "id": "gwanwoo",
+      "name": "관우",
+      "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/118262098_728377294671300_304898903966801238_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=nH3be3594sUAX-o5MxZ&_nc_tp=19&oh=7b0e5be5f837f1dce6146bbbc10a94fd&oe=5FA3A8D8",
+      "message": "관우는 요양중🏥",
+      "status": "online",
+      "age": "0년 0개월"
+    },
+    {
+      "id": "moong",
+      "name": "뭉",
+      "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/120535960_2743613329229828_3593840659301152861_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GFko3UWyAtgAX-vrhMK&_nc_tp=15&oh=5a8004d61645f62b0c9c2a65cae6eded&oe=5FA4D210",
+      "message": "뭉이 왕자👑",
+      "status": "online",
+      "age": "0년 0개월"
+    },
+    {
+      "id": "soon2",
+      "name": "순이",
+      "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/e35/91555516_2629642423825482_7594230307255052923_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=-Tw-l4XK7T8AX_liTKy&_nc_tp=18&oh=4943e1f43aae3cf364e1885aebf4d507&oe=5FA34A96",
+      "message": "#마곡동 #귀여운 #외동딸",
+      "status": "online",
+      "age": "0년 0개월"
+    },
+    {
+      "id": "circle",
+      "name": "동글",
+      "image": "https://i.ibb.co/rfZyPy6/dongle.jpg",
+      "message": "가양동 근린공원 터줏대감⚡",
+      "status": "online",
+      "age": "0년 0개월"
+    },
+    {
+      "id": "jeju",
+      "name": "제주",
+      "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/119938598_682040542711773_2392647029295413229_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qZybbMruXLsAX_VNldK&_nc_tp=15&oh=406f3311cf1c19096c8eee946ebe83ec&oe=5FA1FB6B",
+      "message": "오빠 바라기",
+      "status": "online",
+      "age": "0년 0개월"
+    },
+    {
+      "id": "seoul",
+      "name": "서울",
+      "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/118688769_1030364374050011_6570459779213804562_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=bqb_cGTo8qAAX8dUeG8&_nc_tp=15&oh=95058f0335fa5dfbed8d6c4b2f414cf4&oe=5FA51C48",
+      "message": "여동생 바라기",
+      "status": "online",
+      "age": "0년 0개월"
+    },
+    {
+      "id": "rahee",
+      "name": "오라희",
+      "image": "https://scontent-den4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/116908872_303431460899285_8687774149921503660_n.jpg?_nc_ht=scontent-den4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=7YRFjKlTe-kAX8LA2J6&oh=0c066b8e28d994b877f4cd5109ce0a85&oe=5FA1FB63",
+      "message": "🔥구암공원 파티원 구함🔥",
+      "status": "online",
+      "age": "0년 0개월"
+    }
+  ]
+}
